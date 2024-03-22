@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{14209043-1765-4089-AB53-FD7209D375F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyInterface.cs">
+    <Files>
+      <File FileName="00-Program.cs" Line="91" Column="1" />
+      <File FileName="EmptyInterface.cs" Line="17" Column="8" />
+      <File FileName="11-定义类.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="term01" expanded="True">
+            <Node name="term01" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="EmptyInterface.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.term01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

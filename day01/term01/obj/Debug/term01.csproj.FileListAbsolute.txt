@@ -1,0 +1,6 @@
+/Users/chen/Desktop/C#/day01/term/term01/bin/Debug/term01.exe
+/Users/chen/Desktop/C#/day01/term/term01/bin/Debug/term01.pdb
+/Users/chen/Desktop/C#/day01/term/term01/obj/Debug/term01.csproj.AssemblyReference.cache
+/Users/chen/Desktop/C#/day01/term/term01/obj/Debug/term01.csproj.CoreCompileInputs.cache
+/Users/chen/Desktop/C#/day01/term/term01/obj/Debug/term01.exe
+/Users/chen/Desktop/C#/day01/term/term01/obj/Debug/term01.pdb

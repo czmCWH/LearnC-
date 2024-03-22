@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{14209043-1765-4089-AB53-FD7209D375F6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="term01/03-循环语句.cs">
+    <Files>
+      <File FileName="term01/Properties/AssemblyInfo.cs" Line="11" Column="32" />
+      <File FileName="term01/01-基本数据类型.cs" />
+      <File FileName="term01/02-条件语句.cs" />
+      <File FileName="term01/00-Program.cs" />
+      <File FileName="term01/03-循环语句.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="term" expanded="True">
+            <Node name="term01" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="03-循环语句.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.term01 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
